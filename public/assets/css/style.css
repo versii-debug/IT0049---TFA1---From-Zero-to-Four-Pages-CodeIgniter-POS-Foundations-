@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+}
+
+header {
+    padding: 20px;
+    background: #eee;
+    border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+    margin: 0 0 15px;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+main {
+    max-width: 900px;
+    min-height: 400px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid #aaa;
+    text-align: left;
+}
+
+th {
+    background: #eee;
+}
+
+footer {
+    padding: 15px 20px;
+    background: #eee;
+    border-top: 1px solid #ccc;
+}
+
+footer p {
+    margin: 0;
+}
